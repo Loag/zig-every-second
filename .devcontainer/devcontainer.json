@@ -10,7 +10,10 @@
 
       },
       "extensions": [
-
+        "ziglang.vscode-zig",
+        "eamodio.gitlens",
+        "PKief.material-icon-theme",
+        "enkia.tokyo-night"
       ]
     }
   }
