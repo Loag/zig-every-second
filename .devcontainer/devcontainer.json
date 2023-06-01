@@ -16,5 +16,6 @@
         "enkia.tokyo-night"
       ]
     }
-  }
+  },
+  "mounts": [{ "source": "shared_devcontainer_data", "target": "/home/vscode/data", "type": "volume" }]
 }
