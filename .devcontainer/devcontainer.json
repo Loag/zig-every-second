@@ -7,7 +7,7 @@
   "customizations": {
     "vscode": {
       "settings": {
-
+        "zig.zls.enabled": true
       },
       "extensions": [
         "ziglang.vscode-zig",
