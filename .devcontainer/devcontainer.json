@@ -1,0 +1,17 @@
+{
+  "name": "zig-every-second",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers-contrib/features/zig": {}
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {
+
+      },
+      "extensions": [
+
+      ]
+    }
+  }
+}
